@@ -1,0 +1,8 @@
+[package]
+name = "rocket-study"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rocket = "0.4.10"
+rocket_contrib = "0.4.10"
